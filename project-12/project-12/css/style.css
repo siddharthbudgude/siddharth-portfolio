@@ -1,0 +1,250 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    overflow:0;
+ }
+ .wrapper{
+    color: #fff;
+ }
+.resume{
+    background-color:#eea302;
+    color: #000;
+    width: 90px;
+    height:90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    border: #000 solid 1px;
+}
+.resume a{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+.project{
+    background-color: #ff3b25;
+    color: #000;
+    width: 90px;
+    height:90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    border: #000 solid 1px;
+}
+.project a{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+.contact{
+    background-color: #80d8da;
+    color: #000;
+    width: 90px;
+    height: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    border: #000 solid 1px;
+}
+.contact a{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+.header{
+    display: flex;
+}
+
+.hero img{
+    width: 80%;
+    margin-top: 10px;
+    border: #083c4b solid 1px;
+}
+.swift{
+    text-align: center;
+    border-bottom: 1px grey solid;
+}
+.linked{
+    font-size: 20px;
+    margin-left: 10px;
+    color: #ff3b25;
+}
+.phone{
+    margin-left: 5%;
+    margin-top: 10%;
+    
+}
+.phone a{
+    color: #ff3b25;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+.maths{
+    border-bottom: solid 1px #000;
+    background-color: pink;
+}
+.button-1{
+    height: 50px;
+    width: 100px;
+    background-color: #eea302;
+    color: #000;
+    border: #000 solid 1px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 15%;
+    
+}
+.button-1:hover{
+    font-weight: bold;
+    background-color: #ff3b25;
+    transition-duration: 0.5s;
+}
+.project-1{
+    text-align: center;
+    text-decoration: underline;
+    margin: 20px 0px !important;
+}
+.head{
+    text-align: center;
+    text-decoration: underline;
+    margin: 20px 0px;
+}
+.progress{
+    background-color: red;
+    width: 200px;
+}
+.nade-1 {
+list-style-type: none;
+}
+#node-2{
+    text-decoration: none;
+    color: #fff;
+}
+#navbar-1{
+    display: none;
+    
+}
+.top{
+    background-color: grey;
+    padding: 10px;
+    
+
+}
+.icon{
+    font-size: 20px;
+    color: #000;
+}
+.name:hover{
+    text-decoration:underline;
+    font-size: 20px;
+}
+.resume:hover{
+    width: 120px;
+    height: 120px;
+    transition-duration: 0.5s;
+    background-color:#ff3b25 ;
+}
+.project:hover{
+    width: 120px;
+    height: 120px;
+    transition-duration: 0.5s;
+    background-color: #80d8da;
+}
+.contact:hover{
+    width: 120px;
+    height: 120px;
+    transition-duration: 0.5s;
+    background-color: #ff3b25;
+}
+.text-2{
+    text-align: center;
+    text-decoration: underline;
+}
+.form input{
+    text-align: center;
+}
+@media only screen and (min-width:768px){
+    .swift{
+        text-align: center;
+    }
+    .hero img{
+        width: 40%;
+    }
+    .header{
+        margin-left: 28%;
+    }
+    .bottom{
+        display: flex;
+        margin-top: -5%;
+    }
+    .node-1 h3{
+        font-size: 15px;
+    }
+    .school{
+        margin-top: 30%;
+        margin-left: 10%;
+        text-decoration: underline;
+    }
+    .form input{
+        width: 300px;
+        height: 40px;
+    }
+    .button-1{
+        margin-left: 28%;
+    }
+    .head{
+        margin: 30px 0px;
+    }
+.project-1{
+    margin: 30px 0px !important;
+}
+}
+@media only screen and (min-width:992px){
+    .hero img{
+        width: 70%;
+        text-align: right;
+    }
+    .section{
+        text-align: left;
+        
+    }
+    .hello{
+        margin-top: 10%;
+    }
+    .header{
+        margin-left: -5%;
+    }
+    .phone{
+        width: 33%;
+    }
+    .bottom{
+        padding: 5% 0%;
+    }
+    #navbar-1{
+        display: contents;
+        color: #fff;
+    }
+    #navbar-1 a{
+        margin-left: 15%;
+        font-weight: bold;
+        text-decoration: none;
+        color: #000;
+    }
+.button-1{
+    margin-left: 24%;
+    margin-top: 30px;
+}
+ .head{
+    margin: 40px 0px;
+ }  
+ .form input{
+    width: 400px;
+ } 
+ .project-1{
+    margin: 40px 0px !important;
+ }
+}

@@ -1,0 +1,615 @@
+.header{
+    text-align: left;
+    padding-top:50px;
+    padding-bottom: 50px;
+}
+
+.item img{
+    width: 100px;
+    height: 100px;
+}
+
+
+
+.first{
+    color: #c19d60;
+    margin-top: 10%;
+    margin-left: 10px;
+}
+.line{
+    display: none;
+}
+.line-2{
+    display: none;
+}
+.icon{
+    text-decoration: none;
+    color: black;
+    margin-top: 3px;
+}
+.top {
+    display: none;   
+}
+.top a{
+    margin-top: -10px;
+}
+.meny{
+    display: none;
+}
+.navbar-3{
+    position: fixed;
+    width: 100%;
+    margin-left: -3.8%;
+    margin-top: -18%;
+    border: #222222 1px solid;
+}
+.service{
+    padding-top: 30px;
+    margin-left: 10px;
+    font-family: 'Roboto Slab', serif;
+}
+.service-1{
+    font-size: 40px;
+    padding-top: 40px;
+    margin-left: 10px;
+    font-family: 'Merriweather Sans', sans-serif;  
+}
+.vh-1{
+    display: none;
+}
+.button{
+    width: 70%;
+    margin-left: 20px;
+    margin-top: 20px;
+    border: solid 1px#c19d60 ;
+    background:none;
+}
+.story{
+    text-decoration: none;
+    color:#c19d60;
+    
+    font-family: 'Playfair Display', cursive;
+}
+.special{
+    text-transform: capitalize;
+    font-family: 'Playfair Display', cursive;
+font-style: italic;
+font-size: 20px;
+font-weight: 500;
+color: #c19d60;
+}
+.enjoy{
+    font-family: 'Playfair Display', cursive;
+    font-weight: 900;
+    font-size: 26px;
+    font-style: inherit;
+}
+.words{
+    font-family: 'Playfair Display SC', serif; 
+    font-weight: 700;
+}
+.button-1{
+    width: 60%;
+    height: 40px;
+    background-color: #292929;
+    color: white;
+    border: none;   
+}
+.image{
+    margin-top: 20px;
+}
+.size{
+    height: 400px;
+}
+.shef{
+    padding-top: 80px;
+    padding-bottom: 80px;
+    text-align: center;
+}
+.para-1{
+    padding-top: 50px;
+    color: white;
+}
+.para-2{
+    margin-top: 30px;
+    color: white;
+}
+.line{
+    padding: 2px 0px;
+    margin: 30px 0px;
+    background-color: #B8B8A0;
+}
+.invitation{
+    background-color: #303030;
+    align-items: center;
+    padding-top:50px ;
+    padding-bottom: 50px;
+}
+.for-reserv{
+    font-family: 'Playfair Display', cursive;
+font-style: italic;
+font-size: 18px;
+font-weight: 500;
+}
+.open{
+    margin-top: 10px;
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+}
+.dot-1{
+    color: #c19d60;
+}
+.inner{
+    text-align: center;
+    width: 90%;
+    margin-left: 15px;
+    background-color: #292929;
+    border: dotted 1px white;
+    margin-top: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.inner h1{
+    color: white;
+}
+.inner h6{
+    color: #c19d60;
+    margin-top: 8px;
+}
+.inner h4{
+    color: #c19d60;
+}
+.number{
+    margin-left: 65px;
+    width: 50%;
+    height: 40px;
+    border: 1px solid #c19d60;
+    color: #c19d60;
+}
+.choose{
+    text-transform: capitalize;
+    color: #c19d60;
+    font-family: 'Playfair Display', cursive;
+font-style: italic;
+font-size: 18px;
+font-weight: 500;
+}
+.prepare{
+    font-weight: 900;
+color: #323246;
+font-family: 'Playfair Display', cursive;
+}
+.peopel{
+    text-align: center;
+}
+.more{
+    margin-top: 20px !important;
+    padding:5px;
+    color:#000;
+    background-color:transparent;
+    text-decoration: none;
+    border: 1px solid black;
+}
+.menu{
+    text-align: center;
+    color: white;
+    padding-top: 40px;
+    padding-bottom: 40px; 
+}
+.team{
+    color: #c19d60;
+    font-family: 'Playfair Display', cursive;
+font-style: italic;
+font-size: 18px;
+font-weight: 500;
+}
+.chef{
+    font-weight: 900;
+color: #323246;
+font-family: 'Playfair Display', cursive;
+font-style: inherit;
+}
+.master{
+    font-weight: 600;
+font-size: 18px;
+color: #000;
+text-align: center;
+font-family: 'Playfair Display', cursive;
+font-style: inherit;
+}
+.recipes{
+    font-family: 'Playfair Display', cursive;
+font-size: 21px;
+float: left;
+font-style: italic;
+font-weight: inherit;
+}
+.dish{
+    text-decoration: none;
+    color: white;
+}
+.rate{
+    color:#c19d60
+}
+.shef-2{
+    text-align: center;
+}
+.shef-2 h6{
+    color:#c19d60;
+}
+.book{
+    background-color: #f5f5f5;
+    text-align: center;
+    
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.book a{
+    background-color: black;
+    border: red 1px solid;
+    padding: 5px;
+    text-decoration: none;
+}
+.bottle{
+    text-align: center;
+    color: #fff;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.book-1{
+    text-decoration: none;
+    background-color:  #f5f5f5;
+    padding: 5px;
+    color: black;
+}
+.bottom{
+    background-color: #292929;
+    text-align: center;
+}
+.symbol{
+border: 1px dotted #c19d60;
+
+
+}
+.symbol a{
+    color: #c19d60;
+    background-color: #343434;
+}
+.contact{
+    text-align: center;
+}
+.mail{
+    background-color: #343434;
+    color: #fff;
+    padding: 3px;
+}
+.form{
+    background-color: #c19d60;
+    padding: 3px 8px;
+}
+.copyright{
+    background-color: #222222;
+    padding: 20px;
+    margin-top: -30px;
+    color: #fff;
+}
+.copyright p{
+    font-size: 15px;
+}
+.read{
+    color: #c19d60;
+    text-decoration:dashed;
+}
+.touch{
+    color: #c19d60;
+    text-decoration:dashed;
+}
+.us{
+    font-family: 'Playfair Display', cursive;
+font-size: 19px;
+font-weight: inherit;
+font-style: inherit;
+color: #c19d60;
+}
+.slide-1{
+    text-align: center;
+    border: #000 dotted 1px;
+}
+.slide-1 h1{
+    font-family: 'Playfair Display', cursive;
+font-style: italic;
+font-size: 18px;
+font-weight: 500;
+color: #c19d60;
+}
+.slide-1 h2{
+    font-size: 30px;
+font-weight: 900;
+color: #323246;
+font-family: 'Playfair Display', cursive;
+}
+.slide{
+    text-align: center !important;
+    border: #000 dotted 1px;
+    
+}
+.slide h1{
+    color: #c19d60;
+    font-weight: 600;
+    font-family: 'Playfair Display', cursive;
+    font-size: 18px;
+}
+.slide p{
+   color: #878C9F;
+font-size: 14px;
+font-family: 'Playfair Display', cursive;
+font-style: italic;
+}
+.slide i{
+    color: #c19d60;
+}
+.slide img{
+    width: 100px !important;
+    height: 100px;
+    border-radius: 50%;
+   margin-left: 38%;
+
+}
+@media only screen and (min-width:768px){
+    .icon{
+        font-size: 20px;
+        margin-top: 3px;
+    }
+    .header{
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .scroll{
+        display: none;
+    }
+    .vh-1{
+        display: contents;   
+    }
+    .vedio{
+        align-items: center;
+        
+        background-color: #c19d60;
+        height: 50px;
+        width: 50px;
+        color: #222222;
+        margin-left: 10%;
+        margin-top: 20%;
+        border-radius: 50%;
+        border: 1px solid white;
+    }
+    .vedio i{
+        margin-top: 16px;
+        margin-left: 20px;
+    }
+    .play{
+        margin-top: 22%;
+        color: white ;
+        margin-left: 5px;
+    }
+    .button{
+        width: 29%;
+    }
+    .button-1{
+        width: 28%;
+    }
+    .top{
+        display: contents; 
+    }
+    .navbar-3{
+        position: fixed;
+        margin-top: 0%;
+        margin-left: -1.5%;
+    }
+    .en{
+        text-align: right;
+        
+        color: #c19d60;
+        text-decoration: none;  
+    }
+    .write{
+        text-align: right;
+        margin-left: 20%;
+        color: #c19d60;
+        text-decoration: none;    
+    }
+    .call{
+    margin-top: -20px !important;
+        margin-left: 20%;
+        color: #c19d60;
+        text-decoration: none;
+    }
+    .meny{
+        display: contents;
+    }
+    .line{
+        display: contents;
+    }
+    .shef{
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+    .invitation{
+        padding-bottom: 30px;
+    }
+    .inner{
+        width: 80%;
+        height: 600px;
+        margin-left:75px ;
+    }
+    .number{
+        width: 30%;
+        margin-left: 33%;  
+    }
+    .inner h4{
+        margin-top: 30px;
+    }
+    .menu-1{
+        text-align: left;
+    }
+    .book{
+       
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .band{
+        margin-top: 27px;
+    }
+    .about{
+        text-align: left;
+    }
+    .contact{
+        text-align: left;
+    }
+    .suscribe{
+        text-align: left;
+    }
+    .mail{
+        width: 60%;
+        padding: 6px;
+    }
+    .form{
+        width: 10%;
+        padding: 6px;
+    }
+    .copyright{
+        text-align: center;
+    }
+}
+@media only screen and (min-width:992px){
+    .header{
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+    .story-1{
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    .inner{
+        margin-left: 90px;
+    }
+    .write{
+        text-align: right;
+        margin-left: 20%;
+    }
+    .call{
+        text-align: right;
+        margin-left: 40%;
+        color: #c19d60;
+        text-decoration: none;
+    }
+    .meny{
+        display:none;
+    }
+    .navbar-3{  
+            position: fixed;
+            margin-top: 2%;
+            margin-left: -1.2%;  
+    }
+    .down{
+        margin-left: 40%;
+    }
+    .theory{
+        display: none;
+    }
+    .line-2{
+        display: contents;
+    }
+    .band{
+        text-align: left;
+        margin-top: 35px;
+    }
+    .symbol{
+        text-align: right;
+    }
+    .vedio{
+        margin-top: 20%;
+    }
+    .play{
+        margin-top: 20.5%;
+    }
+}
+@media only screen and (min-width:1350px){
+    .navbar-3{
+        width: 90%;
+        position: fixed;
+        margin-top: -0%;
+        margin-left: 3.5%;  
+}
+.vedio{
+    margin-top: 10%;
+    margin-left: -5%;
+}
+.play{
+    margin-top: 10.5%;
+}
+
+.en{
+margin-top: -10%;
+}
+.image-5{
+    width: 400px;
+    height: 400px;
+}
+.main-menu{
+    margin-left: 10%;
+}
+.dish-1{
+    margin-left: 8%;
+}
+.line-2{
+    display: contents;
+}
+.service-1{
+    font-size: 50px;
+    padding-top: 40px;
+    margin-left: 20px;
+    font-family: 'Merriweather Sans', sans-serif;
+
+}
+.vedio {
+    align-items: center;
+    margin-top: 22%;
+    margin-left: 5%;
+}
+.play{
+    margin-top: 23%;
+}
+.image{
+    margin-top: 10%;
+}
+.story{
+    margin-left: 50px;
+}
+.words{
+    margin-left: 50px;
+}
+.open{
+    margin-top: -5%;
+}
+.dot{
+    margin-left: 50px;
+}
+.dot-1{
+    margin-top: -10%;
+}
+.para{
+    margin-left: 50px;
+}
+.button-1{
+    margin-left: 50px;
+}
+.button{
+    padding: 2px;
+}
+.form{
+    padding: 6px 40px;
+}
+.inner h6{
+    margin-top: -10%;
+}
+}
